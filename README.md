@@ -1,28 +1,155 @@
-<h1 align="center">Hi 👋, I'm Vo Hoai Bao</h1>
-<h3 align="center">A fresher/ student in IU - Internation University</h3>
+<div align="center">
 
-<center><img align="center" alt="anime" width="498" src="https://i.pinimg.com/originals/be/53/fc/be53fc5350400539c44b3bc7c2552fe9.gif"></center>
+# 🎓 Vo Hoai Bao
+### *Aspiring Polymath & Interdisciplinary Scholar*
+#### International University | Vietnam
 
+![Scholar's Journey](https://i.pinimg.com/originals/95/7a/1c/957a1ceb8124da12af38c03d3be4e5ac.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hopekasako&label=Profile%20views&color=0e75b6&style=flat" alt="hopekasako" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=hopekasako&label=Profile%20views&color=2c1810&style=flat)
 
-- 🔭 I’m currently working on **IU**
+</div>
 
-- 🌱 I’m currently learning **DSA, database, machine learning and MIPS.**
+---
 
-- 📫 How to reach me **hopeka97@gmail.com**
+## ✒ *"Study, learn more, learn forever"* — Lenin
 
-- ⚡ Fun fact **I want to become a polymath.**
+<div align="center">
 
+*In the spirit of **Leonardo da Vinci** and **Richard Feynman**, I traverse the boundaries of disciplines, seeking profound connections where art meets science, theory embraces practice.*
 
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopekasako&show_icons=true&locale=en&layout=compact" alt="hopekasako" /></p>
+## 📖 Current Scholarly Pursuits
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hopekasako&show_icons=true&locale=en" alt="hopekasako" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hopekasako&" alt="hopekasako" /></p>
+### 🎯 Primary Research Focus  
+**Knowledge Graphs & Personal Knowledge Management**  
+*International University, Vietnam*
+
+_"Exploring the architecture of knowledge, weaving connections to enhance understanding and discovery"_
+
+---
+
+### 📚 Active Academic Investigations
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>🔗 Blockchain Technology</h4>
+<strong>Hyperledger Fabric</strong><br>
+<em>Distributed Systems</em>
+</td>
+<td align="center" width="33%">
+<h4>🤖 Artificial Intelligence</h4>
+<strong>Machine Learning</strong><br>
+<em>Cognitive Systems</em>
+</td>
+<td align="center" width="33%">
+<h4>🌐 Web Development</h4>
+<strong>Full-Stack Applications</strong><br>
+<em>Digital Interfaces</em>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>📊 Data Science</h4>
+<strong>Structures & Algorithms</strong><br>
+<em>Computational Thinking</em>
+</td>
+<td align="center">
+<h4>🗄️ Database Systems</h4>
+<strong>Information Architecture</strong><br>
+<em>Data Management</em>
+</td>
+<td align="center">
+<h4>🕸️ Knowledge Graphs</h4>
+<strong>Semantic Networks</strong><br>
+<em>Information Architecture</em>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎭 Guiding Philosophies
+
+| **Principle**           | **Application**                            |
+|-------------------------|--------------------------------------------|
+| 🎓 **Docendo Discimus** | *"By teaching, we learn"*                  |
+| 🔬 **Feynman Technique**| *Mastery through explanation*              |
+| 🌟 **Polymath Ideal**   | *Bridging interdisciplinary boundaries*    |
+
+---
+
+### 🚀 Current Mission
+
+Synthesizing deep technical knowledge with broad interdisciplinary perspective  
+to foster innovation at the intersection of technology, learning, and human understanding
+
+</div>
+
+---
+
+### 🛠 **Technical Arsenal**
+
+<div align="center">
+
+| **Languages & Frameworks**                                                                                              | **Databases**                                                                                       |
+|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /> |
+
+**Current Investigations**: Blockchain Architecture • Knowledge Graph Systems • Machine Cognition • Digital Learning Interfaces
+
+</div>
+
+---
+
+### 📊 **Scholar's Metrics**
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hopekasako&show_icons=true&locale=en&layout=compact&theme=gruvbox)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hopekasako&show_icons=true&locale=en&theme=gruvbox)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hopekasako&theme=gruvbox)
+
+</div>
+
+---
+---
+
+### 📈 **GitHub Activity Graph**
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hopekasako&bg_color=1f1f1f&color=9be9a8&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🤝 **Intellectual Discourse & Collaboration**
+
+<div align="center">
+
+📧 **Contact**: [hopeka97@gmail.com](mailto:hopeka97@gmail.com)
+
+*"The unexamined life is not worth living, but unshared knowledge serves no greater purpose."*
+
+**Status**: Scholar in perpetual motion • Forever student • Occasional teacher  
+**Mindset**: Open to challenges as the forge of wisdom • Lifelong learning journey
+
+</div>
+
+---
+
+> **⭐ *"I think, therefore I am"* — Descartes**
+
+<div align="center">
+
+*Embracing the Renaissance ideal: where curiosity meets capability, and knowledge becomes wisdom.*
+
+</div>
